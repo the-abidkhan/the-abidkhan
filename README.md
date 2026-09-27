@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-abidkhan/the-abidkhan/main/Gemini_Generated_Image_q419tgq419tgq419.jfif" alt="Abid Khan GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Abid Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
