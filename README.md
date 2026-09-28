@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-abidkhan/the-abidkhan/main/Gemini_Generated_Image_q419tgq419tgq419.jfif" alt="Abid Khan GitHub Banner" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/the-abidkhan/the-abidkhan/main/Gemini_Generated_Image_q419tgq419tgq419.jfif" 
+    alt="Abid Khan GitHub Banner" 
+    width="100%"
+  >
 </p>
 
 <h1 align="center">Hi 👋, I'm Abid Khan</h1>
 
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  Passionate about building clean, responsive, and user-friendly web applications.
+</p>
 
 ---
 
@@ -18,55 +26,18 @@ I mainly work with **React, Next.js, JavaScript, TypeScript, and Tailwind CSS**.
 
 ---
 
-## 🚀 What I Do
+## 🔭 Currently Working On
 
-- 💻 Build responsive and user-friendly web applications
-- ⚛️ Develop projects using React and Next.js
-- 🎨 Create clean UI with Tailwind CSS
-- 🧠 Continuously improve my problem-solving skills
-- 📚 Learn new technologies and modern development practices
-
----
-
-## 🌐 My Projects
-
-- 👨‍💻 All of my projects are available at [Vercel](https://vercel.com/theabidkhan)
+- 🌐 Building projects with **Next.js and React**
+- 📚 Improving my **JavaScript and TypeScript** skills
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🚀 Exploring modern frontend development practices
 
 ---
 
-## 💬 Ask Me About
+## 🛠️ Skills & Technologies
 
-**React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS**
-
----
-
-## 📫 Contact Me
-
-**Email:** theabidkhan.me@gmail.com
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abid-khan-097b74385/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://www.facebook.com/abidkhan0676" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-
-  <a href="https://www.instagram.com/_abiiiddd_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Technologies
-
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -86,15 +57,15 @@ I mainly work with **React, Next.js, JavaScript, TypeScript, and Tailwind CSS**.
   </a>
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 
   <a href="https://react.dev/" target="_blank">
@@ -110,7 +81,7 @@ I mainly work with **React, Next.js, JavaScript, TypeScript, and Tailwind CSS**.
   </a>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Database
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
@@ -128,8 +99,65 @@ I mainly work with **React, Next.js, JavaScript, TypeScript, and Tailwind CSS**.
 
 ---
 
+## 🌐 Projects
+
+👨‍💻 You can explore my projects on:
+
+**[Vercel](https://vercel.com/theabidkhan)**
+
+---
+
+## 📫 Contact Me
+
+- 📍 **Location:** Bangladesh
+- 📧 **Email:** theabidkhan.me@gmail.com
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abid-khan-097b74385/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/abidkhan0676" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+      alt="Facebook" 
+      height="30" 
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/_abiiiddd_/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      alt="Instagram" 
+      height="30" 
+      width="40"
+    />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-abidkhan&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=the-abidkhan&theme=dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+I love turning complex problems into simple, beautiful, and intuitive designs.
